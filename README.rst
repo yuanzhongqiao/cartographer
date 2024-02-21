@@ -21,6 +21,8 @@ Cartographer
 Purpose
 =======
 
+Cartographer是一个跨多个平台和传感器配置提供 2D 和 3D 实时同步定位和地图绘制 ( SLAM ) 的系统。
+
 `Cartographer`_ is a system that provides real-time simultaneous localization
 and mapping (`SLAM`_) in 2D and 3D across multiple platforms and sensor
 configurations.
